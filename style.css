@@ -1,0 +1,26 @@
+#main-wrapper {
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: red;
+    /* text-align: center; */
+}
+    
+#main-logo {
+    width: 65%;
+    height: 500px;
+} 
+
+#main-logo img {
+    width: 20px;
+    height: auto;
+}
+
+#description {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
