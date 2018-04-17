@@ -4,14 +4,8 @@
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
-    background-color: red;
-    /* text-align: center; */
 }
-    
-#main-logo {
-    width: 65%;
-    height: 500px;
-} 
+
 
 #main-logo img {
     width: 20px;
@@ -23,4 +17,12 @@
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
+}
+
+#contact {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
