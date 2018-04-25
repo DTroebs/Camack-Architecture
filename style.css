@@ -70,3 +70,9 @@ main {
         text-align: center;
     }
 }
+
+@media print and (min-width: 800px) {
+    html {
+        background-color: transparent;
+    }
+}
