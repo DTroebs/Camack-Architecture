@@ -48,6 +48,10 @@ main {
     margin: 0 0;
 }
 
+#description ul {
+    padding-left: 1em;
+}
+
 #contact {
   width: 100%;
   display: flex;
